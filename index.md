@@ -12,11 +12,13 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 
 [//]: # (![Mockup of the boba cup screen]&#40;<Assets/Cup Screen Mockup 1.png>&#41;)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L1I021azl4Y?si=WtfJfZDbIE4jAbxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube.com/embed/L1I021azl4Y?si=WtfJfZDbIE4jAbxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="float: left; margin-right: 10px;"></iframe>
 
 - This is the gameplay screen where the player will have to pick out fish from the boba cup. This shows the first steps in randomly generating the boba and fish for variability.
 - Proper measures were taken so that the boba and fish don't fully overlap and there is enough to fill the intended space.
 - Text indicator in the top left corner of how many fish were randomly spawned so the player knows how many they need to find.
+
+##
 
 ### First mockup of the shop screen (Carol):
 
