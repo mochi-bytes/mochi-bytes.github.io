@@ -5,12 +5,9 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 ![Mockup of the boba cup screen](<Assets/Cup Screen Mockup 1.png>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L1I021azl4Y?si=WtfJfZDbIE4jAbxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+h
 
 ## First mockup of the shop screen:
-<iframe width="560" height="315"
-src="//youtu.be/RdLDSx53n0g" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RdLDSx53n0g?si=lFt-GV0hAxFLN40s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Assets for the UI and Sprites:
