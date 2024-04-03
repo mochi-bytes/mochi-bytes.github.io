@@ -7,11 +7,15 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 ## Milestone 1
 First mockup of the random generation in the cups:
 ![Mockup of the boba cup screen](<Assets/Cup Screen Mockup 1.png>)
-[text](<Assets/Cup screen mockup 1.mov>)
+
+[![Cup Screen Mockup 1 Video]
+(https://img.youtube.com/vi/L1I021azl4Y/maxresdefault.jpg)]
+(https://youtu.be/L1I021azl4Y)
 
 
 First mockup of the shop screen:
-[Video of mockup](<Assets/Screen Recording 2024-04-02 at 6.17.24 PM.mov>)
-[![Video](Assets/Screen Recording 2024-04-02 at 6.17.24 PM.mov)]
+[![Shop Screen Mockup 1 Video]
+(https://img.youtube.com/vi/RdLDSx53n0g/maxresdefault.jpg)]
+(https://youtu.be/RdLDSx53n0g)
 
 Assets for the UI and Sprites:
