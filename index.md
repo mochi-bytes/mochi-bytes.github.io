@@ -12,6 +12,6 @@ First mockup of the random generation in the cups:
 
 First mockup of the shop screen:
 [Video of mockup](<Assets/Screen Recording 2024-04-02 at 6.17.24 PM.mov>)
-[![Video](file:Assets/Screen Recording 2024-04-02 at 6.17.24 PM.mov)]
+[![Video](Assets/Screen Recording 2024-04-02 at 6.17.24 PM.mov)]
 
 Assets for the UI and Sprites:
