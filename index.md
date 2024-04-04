@@ -1,6 +1,6 @@
 # Fishy Tea
 
-[include image here?]
+![FishyTea Logo](Assets/FishyTea.png)
 
 ## Overview
 
