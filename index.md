@@ -1,6 +1,6 @@
 # Fishy Tea
 
-![FishyTea Logo](Assets/FishyTea.png)
+<img src="Assets/FishyTea.png" alt="logo" style="height: 200px; width:200px;"/>
 
 ## Overview
 
