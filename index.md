@@ -1,6 +1,6 @@
 # Fishy Tea
 
-<img src="Assets/FishyTea.png" alt="logo" style="height: 200px; width:200px; display: block; margin-left: auto; margin-right: auto;"/>
+<img src="Assets/FishyTea.png" alt="logo" style="height: 300px; width:300px; display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Overview
 
