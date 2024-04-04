@@ -1,6 +1,6 @@
 # Fishy Tea
 
-![FishyTea Logo](Assets/FishyTea.png)
+![[FishyTea Logo](Assets/FishyTea.png)|200]
 
 ## Overview
 
