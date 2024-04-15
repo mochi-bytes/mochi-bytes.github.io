@@ -1,7 +1,7 @@
 ---
-title: Intro
+title: About
 layout: template
-filename: index.md
+filename: index
 --- 
 
 # Fishy Tea
