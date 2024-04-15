@@ -12,7 +12,7 @@ For our second milestone, after doing some rough development from milestone 1, w
 
 ## Progress video
 
-<iframe width="350" height="230" src="https://youtu.be/myoKa336WG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="float: left; margin-right: 30px; margin-bottom: 30px;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/myoKa336WG0?si=zb7Xc-G3D-WG2Sxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Cup game and spotlight (Kailee):
 
