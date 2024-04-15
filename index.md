@@ -1,3 +1,9 @@
+---
+title: Intro
+layout: template
+filename: index.md
+--- 
+
 # Fishy Tea
 
 <img src="Assets/FishyTea.png" alt="logo" style="height: 300px; width:300px; display: block; margin-left: auto; margin-right: auto;"/>
