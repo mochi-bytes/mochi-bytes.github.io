@@ -8,13 +8,58 @@ filename: index
 
 ## Overview
 
-In "Fishy Tea," players step into the paws of a heroic feline on a mission to rescue a boba shop from disaster. When the clumsy owner accidentally spills fish into the boba machine, the fish get packed into cups, unbeknownst to anyone. As the cat, players must use a straw to poke holes in the cups on conveyor belts and suck up the fish before they reach customers. With quick reflexes and strategic moves, players must prevent a fishy fiasco and save the shop's reputation. With humor and charm, "Fishy Tea" offers addictive gameplay for all ages.
+In "Fishy Tea," players step into the paws of a heroic feline on a mission to rescue a boba shop from disaster. When the clumsy owner accidentally spills fish into the boba machine, the fish get packed into cups, unbeknownst to anyone. As the cat, players must use a straw to poke holes in the cups on conveyor belts and suck up the fish without the customers noticing the catastrophe, but be fast enough to serve them before they leave. With quick reflexes and strategic moves, players must prevent a fishy fiasco and save the shop's reputation. With humor and charm, "Fishy Tea" offers addictive gameplay for all ages.
+
+## Game Demo (need to update)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/myoKa336WG0?si=zb7Xc-G3D-WG2Sxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Tutorial
+
+* Here we have a general overview of how the game works
+
+[//]: # ()
+<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+
+<div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Drag the cat around<br> with your mouse</b></div>
+
+[//]: # ()
+<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
+
+<div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Drag cat to the boba to enter the game to suck out the fish</b></div>
+
+[//]: # ()
+<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+
+<div style="font-size: 1.3rem;"><b>Use the red button to operate the shutters. You can't go into the cups while the shutter is open. So memorize the customers' orders then close the shutters</b></div>
+<div style="font-size: 0.7rem; margin-bottom: 100px;">(Because the customers won't like it if they see a cat sucking fish out of their boba XD).</div>
+
+[//]: # ()
+<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
+
+<div style="font-size: 1.3rem;"><b>Search and click on all the fish in the drink</b></div>
+<div style="font-size: 0.7rem; margin-bottom: 100px;">(Remember that you're customers' timers are still counting down!).</div>
+
+[//]: # ()
+<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+
+<div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Drag the de-fished boba of the proper color to its customer</b></div>
+
+[//]: # ()
+<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
+
+<div style="font-size: 1.3rem; margin-bottom: 150px;"><b>You will lose/gain points based on your success with the orders</b></div>
+
+[//]: # ()
+<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+
+<div style="font-size: 1.3rem; margin-bottom: 150px;"><b>You can raise the shutters to make sure you get the right color before serving, or put your memorization skills to the test, at your own risk!</b></div>
 
 ## The Process
 
 We followed an agile methodology in the development of our game, utilizing GitHub's Kanban board tool.
 
-<a href="https://github.com/orgs/mochi-bytes/projects/1"></a>
+[https://github.com/orgs/mochi-bytes/projects/1](https://github.com/orgs/mochi-bytes/projects/1)
 
 <img src="Assets/Kanban.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto;"/>
 
