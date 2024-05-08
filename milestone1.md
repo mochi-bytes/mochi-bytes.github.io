@@ -32,11 +32,12 @@ What we call our first milestone was the planning phase, including concept and g
 ### Assets for the UI and Sprites (Kristyn):
 - Researched Assests and Sprites to use for the game 
 - Came to the conclusion that making sprites would result in a cleaner looking game
-- Found placeholder sprites
-- made a logo for the game
+- Found placeholder sprites to be used during early development 
+- Made alogo for the FishyTea
 
 <img src="Assets/shopscreen_mock.png" alt="mock_shopscreen" style="display: block; margin-left: auto; margin-right: auto;"/>
 
-Brainstorm sketches made with Carol
+Brainstorm sketches made with Carol:
+- We brainstormed different ideas for varieties of fishes 
 <img src="Assets/sketches.png" alt="sketches" style="display: block; margin-left: auto; margin-right: auto;"/>
 
