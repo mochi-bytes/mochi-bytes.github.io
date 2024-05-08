@@ -27,4 +27,5 @@ Our third milestone consisted of finishing implementation of all the mechanics o
 
 - Implemented the trash can functionality to the game. Players can drag a boba drink from the table to the trash can and it will be thrown away. The free space can be filled with a new boba drink.
 - Created 2 new boba assets. One without a straw and with a straw. New colors were choosen to reflect reaslistic boba colors.
-- Implemented the logic for the shutter. When pressing the button on the counter, the shutter will go up and down. When the shutter is down, the player is unable to go to the cupscene. The shutter stays up or down between scenes. 
+- Implemented the logic for the shutter. When pressing the button on the counter, the shutter will go up and down. When the shutter is down, the player is unable to go to the cupscene. The shutter stays up or down between scenes.
+- Made a table asset and fixed a bug with the completed boba layering 
