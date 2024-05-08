@@ -14,9 +14,9 @@ For our second milestone, after doing some rough development from milestone 1, w
 - A shutter that can be toggled with a button so that you can only catch the fish when the shutter is down, and you can only see and deliver the orders when the shutter is up. (In lore, this is because the customers can't see a cat sucking fish out of the boba of course!)
 - Simplified score system to add and subtract money
 
-<img src="Assets/brainstorm2-1.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: 20px; float: left; width: 40%;"/>
+<img src="Assets/brainstorm2-1.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: 20px; float: left; width: 45%; margin-bottom: 30px;"/>
 
-<img src="Assets/brainstorm2-2.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto; float: right; width: 40%;"/>
+<img src="Assets/brainstorm2-2.png" alt="first-brainstorm" style="display: block; margin-left: 20px; margin-right: auto; float: right; width: 45%; margin-bottom: 30px;"/>
 
 
 
@@ -36,3 +36,5 @@ For our second milestone, after doing some rough development from milestone 1, w
 - Customer orders have boba colors 
 
 ### Redesign and random movement of boba (Kristyn):
+
+- ojk
