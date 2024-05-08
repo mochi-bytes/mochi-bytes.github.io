@@ -10,7 +10,9 @@ What we call our first milestone was the planning phase, including concept and g
 
 Our initial idea included 2 conveyor belts that the player would have to manage and get the fish out of the cups from both sides. Then there would be a rating that would increase and decrease as cups with certain amounts of fish were let out to the customers.
 
-<img src="Assets/firstbrainstorm.png.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="Assets/firstbrainstorm.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto;"/>
+
+
 
 ## Mockups
 

@@ -14,17 +14,17 @@ For our second milestone, after doing some rough development from milestone 1, w
 - A shutter that can be toggled with a button so that you can only catch the fish when the shutter is down, and you can only see and deliver the orders when the shutter is up. (In lore, this is because the customers can't see a cat sucking fish out of the boba of course!)
 - Simplified score system to add and subtract money
 
-<img src="Assets/brainstorm2-1.png.png.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto; float: left; width: 50%;"/>
+<img src="Assets/brainstorm2-1.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: 20px; float: left; width: 40%;"/>
 
-<img src="Assets/brainstorm2-2.png.png.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto; float: right; width: 50%;"/>
+<img src="Assets/brainstorm2-2.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto; float: right; width: 40%;"/>
+
+
 
 ## Progress video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myoKa336WG0?si=zb7Xc-G3D-WG2Sxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Cup game and spotlight (Kailee):
-
-[//]: # (![Mockup of the boba cup screen]&#40;<Assets/Cup Screen Mockup 1.png>&#41;)
 
 - Finished up implementation of the cup game so that the spotlight worked properly
 - Implemented color to carrying over from the conveyor belt to the background color of the cup game
