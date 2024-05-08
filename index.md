@@ -56,7 +56,7 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 <div style="font-size: 1.3rem; margin-bottom: 150px; margin-top: 20px;"><b>You can raise the shutters to make sure you get the right color before serving, OR put your memorization skills to the test, at your own risk!</b></div>
 
 [//]: # ()
-<img src="Assets/trashcan.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 100px;"/>
+<img src="Assets/trashcan.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Use the trashcan to get rid of accidental cups on your table</b></div>
 
