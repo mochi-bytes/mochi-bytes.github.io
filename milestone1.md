@@ -33,5 +33,10 @@ What we call our first milestone was the planning phase, including concept and g
 - Researched Assests and Sprites to use for the game 
 - Came to the conclusion that making sprites would result in a cleaner looking game
 - Found placeholder sprites
-- made a logo for the game 
+- made a logo for the game
+
+<img src="Assets/shopscreen_mock.png" alt="mock_shopscreen" style="height: 300px; width:300px; display: block; margin-left: auto; margin-right: auto;"/>
+
+Brainstorm sketches made with Carl 
+<img src="Assets/sketches.png" alt="sketches" style="height: 300px; width:300px; display: block; margin-left: auto; margin-right: auto;"/>
 
