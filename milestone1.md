@@ -35,8 +35,8 @@ What we call our first milestone was the planning phase, including concept and g
 - Found placeholder sprites
 - made a logo for the game
 
-<img src="Assets/shopscreen_mock.png" alt="mock_shopscreen" style="height: 300px; width:300px; display: block; margin-left: auto; margin-right: auto;"/>
+<img src="Assets/shopscreen_mock.png" alt="mock_shopscreen" style="display: block; margin-left: auto; margin-right: auto;"/>
 
-Brainstorm sketches made with Carl 
-<img src="Assets/sketches.png" alt="sketches" style="height: 300px; width:300px; display: block; margin-left: auto; margin-right: auto;"/>
 
+<img src="Assets/sketches.png" alt="sketches" style="display: block; margin-left: auto; margin-right: auto;"/>
+Brainstorm sketches made with Carol
