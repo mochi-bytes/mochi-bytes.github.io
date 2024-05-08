@@ -37,6 +37,6 @@ What we call our first milestone was the planning phase, including concept and g
 
 <img src="Assets/shopscreen_mock.png" alt="mock_shopscreen" style="display: block; margin-left: auto; margin-right: auto;"/>
 
-
-<img src="Assets/sketches.png" alt="sketches" style="display: block; margin-left: auto; margin-right: auto;"/>
 Brainstorm sketches made with Carol
+<img src="Assets/sketches.png" alt="sketches" style="display: block; margin-left: auto; margin-right: auto;"/>
+
