@@ -14,7 +14,7 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 
 We followed an agile methodology in the development of our game, utilizing GitHub's Kanban board tool.
 
-https://github.com/orgs/mochi-bytes/projects/1
+<a href="https://github.com/orgs/mochi-bytes/projects/1"</a>
 
 <img src="Assets/Kanban.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto;"/>
 
