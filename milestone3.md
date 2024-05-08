@@ -18,8 +18,10 @@ Our third milestone consisted of finishing implementation of all the mechanics o
 - Made sure that customer orders and timer persisted between scenes and didn't restart spawning on top of the old ones
 
 ### Carol:
-
-- jkljl
+- Drew and animated the cat 
+- Added background music that muffles when the player enters the cup screen.
+- Added other additional sound effects: Customers making angry noises when they receive the wrong order or don't receive an order in time, having a cash register sound when successfully completing a customer's order, and the slurping sound effect when sucking up a fish
+- Implemented customer order success, verifying that you brought the correct order to the customer and awards points accordingly
 
 ### Kristyn:
 
