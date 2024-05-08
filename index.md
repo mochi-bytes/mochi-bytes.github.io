@@ -38,7 +38,7 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 <img src="Assets/click_fish.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem;"><b>Search and click on all the fish in the drink</b></div>
-<div style="font-size: 0.7rem; margin-bottom: 100px;">(Remember that you're customers' timers are still counting down!).</div>
+<div style="font-size: 0.7rem; margin-bottom: 100px;">(Remember that your customers' timers are still counting down!).</div>
 
 [//]: # ()
 <img src="Assets/give_customer.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
