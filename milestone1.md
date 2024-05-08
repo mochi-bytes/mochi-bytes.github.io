@@ -8,13 +8,13 @@ filename: milestone1
 
 What we call our first milestone was the planning phase, including concept and gameplay ideas.
 
-(Here, let's include our brainstorming boards and initial concept for the game (with two conveyor belts))
+Our initial idea included 2 conveyor belts that the player would have to manage and get the fish out of the cups from both sides. Then there would be a rating that would increase and decrease as cups with certain amounts of fish were let out to the customers.
+
+<img src="Assets/firstbrainstorm.png.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Mockups
 
 ### First mockup of the random generation for boba and fish (Kailee):
-
-[//]: # (![Mockup of the boba cup screen]&#40;<Assets/Cup Screen Mockup 1.png>&#41;)
 
 <iframe width="350" height="230" src="https://www.youtube.com/embed/L1I021azl4Y?si=WtfJfZDbIE4jAbxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="float: left; margin-right: 30px; margin-bottom: 30px;"></iframe>
 
@@ -30,10 +30,10 @@ What we call our first milestone was the planning phase, including concept and g
 - The player can drag the cat to one of the boba cups. The boba cups have a visual indication that they are the one that the player is interacting with. In the future, when the player lets go of the cat on a boba cup, it will transition to the cup screen above.
 
 ### Assets for the UI and Sprites (Kristyn):
-- Researched Assests and Sprites to use for the game 
+- Researched assets and sprites to use for the game 
 - Came to the conclusion that making sprites would result in a cleaner looking game
 - Found placeholder sprites to be used during early development 
-- Made alogo for the FishyTea
+- Made a logo for the FishyTea
 
 <img src="Assets/shopscreen_mock.png" alt="mock_shopscreen" style="display: block; margin-left: auto; margin-right: auto;"/>
 
