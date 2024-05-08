@@ -39,4 +39,5 @@ For our second milestone, after doing some rough development from milestone 1, w
 
 - Made a transition from the shop scene to the cup scene where the camera pans over to the boba the cat was dragged to
 - In the cup scene, when clicking on a fish, made the fish counter in the bottom left corner count down. When it reaches 0, the scene shifts back to the shop screen.
+- Made the boba move back and forth randomly in a radius aroumd its initial spawn point 
 - When going back to the shop screen after all fish have been taken out of the boba drink, a boba drink with the corresponding color appears on the table. The table can hold up to 3 boba drinks and if the table is full, the player can't go into the cup scene. 
