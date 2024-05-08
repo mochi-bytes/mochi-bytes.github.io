@@ -53,7 +53,7 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 [//]: # ()
 <img src="Assets/drag_boba_shutter.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
 
-<div style="font-size: 1.3rem; margin-bottom: 150px; margin-top: 20px;"><b>You can raise the shutters to make sure you get the right color before serving, OR put your memorization skills to the test, at your own risk!</b></div>
+<div style="font-size: 1.3rem; margin-bottom: 150px; margin-top: 20px; padding-top: 10px;"><b>You can raise the shutters to make sure you get the right color before serving, OR put your memorization skills to the test, at your own risk!</b></div>
 
 [//]: # ()
 <img src="Assets/trashcan.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%;"/>
