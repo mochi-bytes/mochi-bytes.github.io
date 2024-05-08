@@ -31,7 +31,7 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 [//]: # ()
 <img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
 
-<div style="font-size: 1.3rem;"><b>Use the red button to operate the shutters. You can't go into the cups while the shutter is open. So memorize the customers' orders then close the shutters</b></div>
+<div style="font-size: 1.3rem;"><b>Use the red button to operate the shutters. You can't go into the cups while the shutter is open. So memorize the customers' orders then close the shutters and get the boba of the proper color</b></div>
 <div style="font-size: 0.7rem; margin-bottom: 100px;">(Because the customers won't like it if they see a cat sucking fish out of their boba XD).</div>
 
 [//]: # ()
@@ -53,7 +53,12 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 [//]: # ()
 <img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
 
-<div style="font-size: 1.3rem; margin-bottom: 150px;"><b>You can raise the shutters to make sure you get the right color before serving, or put your memorization skills to the test, at your own risk!</b></div>
+<div style="font-size: 1.3rem; margin-bottom: 150px;"><b>You can raise the shutters to make sure you get the right color before serving, OR put your memorization skills to the test, at your own risk!</b></div>
+
+[//]: # ()
+<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
+
+<div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Use the trashcan to get rid of accidental cups on your table</b></div>
 
 ## The Process
 
