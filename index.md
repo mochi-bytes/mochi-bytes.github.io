@@ -41,7 +41,7 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 <div style="font-size: 0.7rem; margin-bottom: 100px;">(Remember that you're customers' timers are still counting down!).</div>
 
 [//]: # ()
-<img src="give_customer.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+<img src="Assests/give_customer.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Drag the de-fished boba of the proper color to its customer</b></div>
 
