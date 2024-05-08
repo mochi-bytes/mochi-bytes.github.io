@@ -31,9 +31,9 @@ For our second milestone, after doing some rough development from milestone 1, w
 
 ### First mockup of the shop screen (Carol):
 
-- Implemented the customer spawner where a new customer will spawn in every 5 seconds, unless there are already 3 customers at the counter. They also each have a timer that dictates how long they will stay at the counter before being upset and leaving.
-- Customer spawner 
-- Customer orders have boba colors 
+- Implemented the customer spawner where a new customer will spawn in every 5 seconds, unless there are already 3 customers at the counter.
+- Each customer has a timer that dictates how long they will stay at the counter before getting upset and leaving.
+- Every order has a randomized color of one of three boba flavors that they can order, which are the same as the three that is going down the conveyer lines.
 
 ### Redesign and random movement of boba (Kristyn):
 
