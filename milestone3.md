@@ -14,8 +14,10 @@ Our third milestone consisted of finishing implementation of all the mechanics o
 
 ### Kailee:
 
-- Added the score system and made sure it was visible between scenes
-- Made sure that customer orders and timer persisted between scenes and didn't restart spawning on top of the old ones
+- Added the score system to subtract revenue and added the skeleton for gaining revenue. Also made sure it was visible between scenes.
+- Made sure that customer orders and timer persisted between scenes and didn't restart spawning on top of the old ones so that the core of the game worked properly
+- Created and designs end screen which included making sure all the objects were destroyed but keeping the final score shown
+- Formatted the website and wrote tutorial
 
 ### Carol:
 - Drew and animated the cat 
