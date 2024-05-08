@@ -46,7 +46,7 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Drag the de-fished boba of the proper color to its customer</b></div>
 
 [//]: # ()
-<img src="Assets/score.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 5px;"/>
+<img src="Assets/score.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>You will lose/gain points based on your success with the orders</b></div>
 
