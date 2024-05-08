@@ -29,4 +29,9 @@ What we call our first milestone was the planning phase, including concept and g
 - Boba cups spawn from two locations: On the top and bottom of the screen. They move in opposite directions to add to the hecticness and increase the panic for the player
 - The player can drag the cat to one of the boba cups. The boba cups have a visual indication that they are the one that the player is interacting with. In the future, when the player lets go of the cat on a boba cup, it will transition to the cup screen above.
 
-### Assets for the UI and Sprites:
+### Assets for the UI and Sprites (Kristyn):
+- Researched Assests and Sprites to use for the game 
+- Came to the conclusion that making sprites would result in a cleaner looking game
+- Found placeholder sprites
+- made a logo for the game 
+
