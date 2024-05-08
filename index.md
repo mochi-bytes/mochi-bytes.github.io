@@ -19,44 +19,44 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 * Here we have a general overview of how the game works
 
 [//]: # ()
-<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+<img src="Assets/dragging_cat.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Drag the cat around<br> with your mouse</b></div>
 
 [//]: # ()
-<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
+<img src="Assets/dragging_cat_to_boba.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Drag cat to the boba to enter the game to suck out the fish</b></div>
 
 [//]: # ()
-<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+<img src="Assets/shutter_down.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem;"><b>Use the red button to operate the shutters. You can't go into the cups while the shutter is open. So memorize the customers' orders then close the shutters and get the boba of the proper color</b></div>
 <div style="font-size: 0.7rem; margin-bottom: 100px;">(Because the customers won't like it if they see a cat sucking fish out of their boba XD).</div>
 
 [//]: # ()
-<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
+<img src="Assets/click_fish.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem;"><b>Search and click on all the fish in the drink</b></div>
 <div style="font-size: 0.7rem; margin-bottom: 100px;">(Remember that you're customers' timers are still counting down!).</div>
 
 [//]: # ()
-<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+<img src="give_customer.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Drag the de-fished boba of the proper color to its customer</b></div>
 
 [//]: # ()
-<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
+<img src="Assets/score.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>You will lose/gain points based on your success with the orders</b></div>
 
 [//]: # ()
-<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
+<img src="Assets/drag_boba_shutter.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: right; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>You can raise the shutters to make sure you get the right color before serving, OR put your memorization skills to the test, at your own risk!</b></div>
 
 [//]: # ()
-<img src="Assets/brainstorm2-1.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
+<img src="Assets/trashcan.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%; margin-bottom: 50px;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Use the trashcan to get rid of accidental cups on your table</b></div>
 
