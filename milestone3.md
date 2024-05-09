@@ -41,4 +41,5 @@ Our third milestone consisted of finishing implementation of all the mechanics o
 </div>
 - Implemented the logic for the shutter. When pressing the button on the counter, the shutter will go up and down. When the shutter is down, the player is unable to go to the cupscene. The shutter stays up or down between scenes.
 - Made a table asset and fixed a bug with the completed boba layering 
+
 <img src="Assets/table.png" height="150px" alt="Cat being dragged animation" style="border-radius: 5px;">
