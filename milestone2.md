@@ -26,8 +26,9 @@ For our second milestone, after doing some rough development from milestone 1, w
 
 ### Cup game and spotlight (Kailee):
 
-- Finished up implementation of the cup game so that the spotlight worked properly
-- Implemented color to carrying over from the conveyor belt to the background color of the cup game
+- Finished up implementation of the cup game so that the spotlight worked properly. Before, the spotlight was off-center and wasn't properly aligned with the mouse.
+- Implemented color to carrying over from the drink conveyor belt to the background color of the cup game. Needed to create a HexToColor converter in the process.
+- In addition, formatted our project site and added the functionality for multiple pages.
 
 ### First mockup of the shop screen (Carol):
 

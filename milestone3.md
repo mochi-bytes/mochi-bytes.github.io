@@ -14,10 +14,12 @@ Our third milestone consisted of finishing implementation of all the mechanics o
 
 ### Kailee:
 
-- Added the score system to subtract revenue and added the skeleton for gaining revenue. Also made sure it was visible between scenes.
-- Made sure that customer orders and timer persisted between scenes and didn't restart spawning on top of the old ones so that the core of the game worked properly
-- Created and designs end screen which included making sure all the objects were destroyed but keeping the final score shown
-- Formatted the website and wrote tutorial
+- Added the score system to subtract revenue and added the skeleton for gaining revenue. Made sure the score was visible and carried over between scenes.
+- Made sure that customer orders and their timers persisted between scenes, but weren't visible when they were in the cup game. The order game objects included multiple children which meant a way needed to be found to toggle all children as well.
+- This introduced a bug that made fish sometimes spawn under the persistent game objects (the customer orders) and couldn't be clicked.
+- Another bug was that it would spawn new instances after switching scenes which was also corrected
+- Created and designed the end screen which included making sure all the objects were destroyed but keeping the final score shown
+- Additionally, did a lot of writing for the website and started on the tutorial
 
 ### Carol:
 - Drew and animated the cat 
