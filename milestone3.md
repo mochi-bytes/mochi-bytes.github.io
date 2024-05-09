@@ -35,7 +35,7 @@ Our third milestone consisted of finishing implementation of all the mechanics o
 - Implemented the trash can functionality to the game. Players can drag a boba drink from the table to the trash can and it will be thrown away. The free space can be filled with a new boba drink.
 - Created 2 new boba assets. One without a straw and with a straw. New colors were choosen to reflect reaslistic boba colors.
 
-<div style="padding: 20px";>
+<div style="padding: 20px;">
 <img src="Assets/boba.png" height="150px" alt="Cat idle animation" style="border-radius: 5px;">
 <img src="Assets/strawBoba.png" height="150px" alt="Cat being dragged animation" style="border-radius: 5px;">
 </div>
