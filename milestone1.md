@@ -12,8 +12,6 @@ Our initial idea included 2 conveyor belts that the player would have to manage 
 
 <img src="Assets/firstbrainstorm.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto;"/>
 
-
-
 ## Mockups
 
 ### First mockup of the random generation for boba and fish (Kailee):

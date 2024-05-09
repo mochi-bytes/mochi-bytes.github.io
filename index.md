@@ -6,13 +6,16 @@ filename: index
 
 <img src="Assets/FishyTea.png" alt="logo" style="height: 300px; width:300px; display: block; margin-left: auto; margin-right: auto;"/>
 
+## Play now on Itch.io!
+[https://carkriskai.itch.io/fishytea](https://carkriskai.itch.io/fishytea)
+
 ## Overview
 
 In "Fishy Tea," players step into the paws of a heroic feline on a mission to rescue a boba shop from disaster. When the clumsy owner accidentally spills fish into the boba machine, the fish get packed into cups, unbeknownst to anyone. As the cat, players must use a straw to poke holes in the cups on conveyor belts and suck up the fish without the customers noticing the catastrophe, but be fast enough to serve them before they leave. With quick reflexes and strategic moves, players must prevent a fishy fiasco and save the shop's reputation. With humor and charm, "Fishy Tea" offers addictive gameplay for all ages.
 
-## Game Demo (need to update)
+## Game Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/myoKa336WG0?si=zb7Xc-G3D-WG2Sxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lztm7CF4xOU?si=606fs1I6pTSfp0h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Tutorial
 
@@ -59,14 +62,6 @@ In "Fishy Tea," players step into the paws of a heroic feline on a mission to re
 <img src="Assets/trashcan.png" alt="tutorial" style="display: block; margin-left: 10px; margin-right: 10px; float: left; width: 45%;"/>
 
 <div style="font-size: 1.3rem; margin-bottom: 150px;"><b>Use the trashcan to get rid of accidental cups on your table</b></div>
-
-## The Process
-
-We followed an agile methodology in the development of our game, utilizing GitHub's Kanban board tool.
-
-[https://github.com/orgs/mochi-bytes/projects/1](https://github.com/orgs/mochi-bytes/projects/1)
-
-<img src="Assets/Kanban.png" alt="first-brainstorm" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## The Team
 

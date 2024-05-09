@@ -8,9 +8,9 @@ filename: milestone3
 
 Our third milestone consisted of finishing implementation of all the mechanics of the game as well as improving our aesthetic features such as sprites, sound effects, and music.
 
-## Progress video (need to update)
+## Final video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/myoKa336WG0?si=zb7Xc-G3D-WG2Sxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lztm7CF4xOU?si=606fs1I6pTSfp0h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Kailee:
 
